@@ -9,6 +9,7 @@ var st             = require('st');
 var crypto         = require('crypto');
 var express        = require('express');
 var https          = require('http');
+var http           = require('http');
 var path           = require('path');
 var engine         = require('ejs-locals');
 var cookieParser   = require('cookie-parser');
